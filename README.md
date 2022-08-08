@@ -10,5 +10,4 @@ example :python3 main.py chongqing.jpeg -o chongqing.txt --width 2400 --height 9
 
 
 ## ascii sample ( after zoom in )
-![image](https://user-images.githubusercontent.com/77389522/183317202-1f98dbba-f6d0-4e30-8c9d-9eb67ebe3888.png)
-
+![image](https://user-images.githubusercontent.com/77389522/183317738-479f6443-6083-4ef2-b62c-2de1f1b7eeff.png)
